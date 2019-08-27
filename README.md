@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Analytics-based-on-Tree-Model
+# Credit-Card-Fraud-Analytics
 
 The dataset was sourced from Kaggle: https://www.kaggle.com/mlg-ulb/creditcardfraud
 
